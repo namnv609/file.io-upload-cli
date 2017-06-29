@@ -1,0 +1,17 @@
+{
+  "name": "file.io-upload-cli",
+  "version": "1.0.0",
+  "description": "[Node.JS] Simple File.IO upload from terminal for https://file.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NamNV609 <namnv609@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.10.0",
+    "install": "^0.10.1",
+    "npm": "^5.0.4",
+    "request": "^2.81.0"
+  }
+}
